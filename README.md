@@ -7,6 +7,4 @@ The German Association of Actuaries (Deutsche Aktuarvereinigunge.V., DAV) is the
 
 The Actuarial Data Science Committee wants to support actuaries in dealing more with data science issues and machine learning methods and has therefore created a Data Science Challenge in 2020. This notebook was created by Melanie Wahlers und Dr. Johannes Hollad and won the first prize in the group evaluation of the Data Science Challenge 2020.
 
-The given repository has been created by Melanie Wahlers und Dr. Johannes Hollad, who won the group competition of the Data Science Challenge [Year] of the DAV. The Data Science Challenge is an initiative of the Actuarial Data Science Committee of the DAV to encourage the engagement with machine learning and data science within the insurance industry.
-
 **Please note that the repositories provided on GitHub are published by the DAV. The content of linked websites is the sole responsibility of their operators. The DAV is not responsible for the code and data linked to soa.org and referred to in the repositories.**
